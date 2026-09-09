@@ -3,3 +3,4 @@ test.py
 logs/
 personal.py
 credentials.json
+.gitignore
